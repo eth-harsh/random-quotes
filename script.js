@@ -60,5 +60,5 @@ document.querySelector("#copy-btn").addEventListener("click", function () {
 
   setTimeout(function () {
     document.querySelector("#copied-msg").classList.add("hidden");
-  }, 2000);
+  }, 1000);
 });
