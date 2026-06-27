@@ -26,7 +26,7 @@ Just open `index.html` in your browser — no installation needed!
 
 ## Live Demo
 
-[Click here](https://YOUR_USERNAME.github.io/quote-of-the-day)
+[Click here](https://eth-harsh.github.io/random-quotes/)
 
 ## Built With
 
